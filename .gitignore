@@ -1,0 +1,8 @@
+# Ignore all files in the /container directory
+/container/*
+
+# Ignore the GoogleService-Info file
+/firebase-gtm-adjust-ios-swift/GoogleService-Info.plist
+
+# Ignore macOS DS_Store files
+.DS_Store
